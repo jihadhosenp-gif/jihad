@@ -1,0 +1,12 @@
+.jihad {
+    background-color: rgb(113, 194, 47);
+    border: 2px solid rgb(157, 68, 68);
+    padding: 10px;
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    width: 500px;
+    height:300px;
+    background-image: url(../jihad1.jpg);
+    text-align: center;
+}
