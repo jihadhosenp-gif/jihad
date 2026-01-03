@@ -1,0 +1,18 @@
+    .div {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #392525;
+    border-radius: 5px;
+    background-color: #5784a4;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    width: 510px;
+    display: inline-block;
+}
+
+.form {
+    background-color: #7a1e96;
+    text-align: left;
+    padding: 20px;
+}
